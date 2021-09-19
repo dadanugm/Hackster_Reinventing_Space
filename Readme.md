@@ -13,4 +13,5 @@ Nodes:
 - Create certificate, and download. Put the Key in secret.h
 
 Monitoring:
+- File: MqttAws.py
 - running perfectly on python 3.9.1 
